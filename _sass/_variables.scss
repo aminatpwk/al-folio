@@ -1,0 +1,45 @@
+/*******************************************************************************
+ * Amina Sokoli — site color palette overrides
+ ******************************************************************************/
+
+@use "sass:color";
+
+$red-color: #ff3636 !default;
+$red-color-dark: #b71c1c !default;
+$orange-color: #f29105 !default;
+$blue-color: #00589c !default;
+$blue-color-dark: #003d6e !default;
+$cyan-color: #009cc4 !default;
+$light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
+$green-color: #00ab37 !default;
+$green-color-lime: #b7d12a !default;
+$green-color-dark: #009f06 !default;
+$green-color-light: #ddffdd !default;
+$green-color-bright: #11d68b !default;
+$purple-color: #78206e !default;
+$light-purple-color: color.adjust($purple-color, $lightness: 25%);
+$pink-color: #f92080 !default;
+$pink-color-light: #ffdddd !default;
+$yellow-color: #efcc00 !default;
+
+$grey-color: #828282 !default;
+$grey-color-light: #d8d8d8 !default;
+$grey-color-dark: #1a1a1a !default;
+$grey-900: #1a1a1a !default;
+
+$white-color: #ffffff !default;
+$black-color: #1a1a1a !default;
+
+$code-bg-color-light: rgba($cyan-color, 0.08);
+$code-bg-color-dark: #2c3237 !default;
+
+$fa-font-path: "../webfonts";
+
+$back-to-top-z-index: 10;
+$back-to-top-bottom: 30px;
+$back-to-top-right: 30px;
+$back-to-top-diameter: 40px;
+$back-to-top-height: $back-to-top-diameter;
+$back-to-top-width: $back-to-top-diameter;
+
+$max-content-width: 930px !default;
