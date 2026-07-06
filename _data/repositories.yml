@@ -1,7 +1,9 @@
 github_users:
   - aminatpwk
 
-repo_description_lines_max: 2
-
 github_repos:
-  - aminatpwk/al-folio
+  - aminatpwk/ramulator2-AES
+  - aminatpwk/acaces26-agent-based-modeling
+  - aminatpwk/biodynamo
+  - aminatpwk/CARTopiaX
+  - aminatpwk/bmssp
