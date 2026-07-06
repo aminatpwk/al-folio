@@ -25,10 +25,11 @@ cv:
         end_date: present
         summary: >
           Characterizing performance bottlenecks of large-scale agent-based simulations using the
-          DAMOV methodology on Google Cloud VMs.
+          DAMOV methodology on Google Cloud VMs; focusing on hardware-software co-design,
+          particularly optimizing HBM-PIM (High Bandwidth Memory with Processing-In-Memory)
+          architectures to address memory bottlenecks in high-performance computing environments.
         highlights:
-          - Hardware-software co-design with focus on HBM-PIM (High Bandwidth Memory with Processing-In-Memory) architectures for memory bottlenecks in HPC.
-          - Fault-tolerant distributed systems and scalable simulation frameworks (BioDynaMo, CARTopiaX, NeuroDev).
+          - Contributing to advanced research in fault-tolerant distributed systems and scalable simulation frameworks (BioDynaMo; CARTopiaX; NeuroDev).
 
       - company: RISC-V International
         position: Individual Member

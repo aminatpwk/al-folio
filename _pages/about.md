@@ -6,6 +6,7 @@ subtitle: Affiliated Researcher at <a href='https://cispa.de/'>CISPA</a> · Comp
 
 profile:
   align: right
+  image: 913a8cf0-b24b-4ccb-ac46-50750e4b6305.jpg
   image_circular: true
   more_info: >
     <p><a href="mailto:amina.sokoli@fti.edu.al">amina.sokoli@fti.edu.al</a></p>
