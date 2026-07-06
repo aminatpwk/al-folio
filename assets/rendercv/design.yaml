@@ -1,0 +1,15 @@
+# for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
+design:
+  theme: classic
+  page:
+    size: a4
+    show_footer: false
+    show_top_note: false
+  colors:
+    body: "#1A1A1A"
+    name: "#00589C"
+    headline: "#009CC4"
+    connections: "#78206E"
+    section_titles: "#00589C"
+    links: "#009CC4"
+    footer: "#D8D8D8"

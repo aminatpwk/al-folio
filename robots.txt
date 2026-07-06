@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aminatpwk.github.io/sitemap.xml
