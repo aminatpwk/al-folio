@@ -17,7 +17,7 @@ cv:
       username: amina-sokoli-a34554247
 
   sections:
-    Research:
+    Experience:
       - company: CISPA Helmholtz Center for Information Security
         position: Affiliated Researcher
         location: Remote
@@ -29,16 +29,8 @@ cv:
           particularly optimizing HBM-PIM (High Bandwidth Memory with Processing-In-Memory)
           architectures to address memory bottlenecks in high-performance computing environments.
         highlights:
-          - Contributing to advanced research in fault-tolerant distributed systems and scalable simulation frameworks (BioDynaMo; CARTopiaX; NeuroDev).
+          - Contributing to advanced research in distributed systems and scalable simulation frameworks (BioDynaMo; CARTopiaX; NeuroDev).
 
-      - company: RISC-V International
-        position: Individual Member
-        location: Remote
-        start_date: 2024-08
-        end_date: present
-        summary: Participating in RISC-V community initiatives and following working groups.
-
-    Experience:
       - company: 3i Solutions Albania
         position: Software Engineer
         location: Tirana, Albania · On site
@@ -70,22 +62,12 @@ cv:
         highlights:
           - Full-stack development with Angular and .NET for a booking application.
 
-      - company: AKEP
-        position: Computer Engineering Intern
-        location: Tirana, Albania · On site
-        start_date: 2025-05
-        end_date: 2025-05
-        summary: One-month internship on telecommunications infrastructure.
-        highlights:
-          - Database networks, frequency systems infrastructure, and 5G.
-
-      - company: TiranaIT
-        position: Backend Developer (Internship)
-        location: Tirana, Albania · Hybrid
-        start_date: 2024-10
-        end_date: 2024-12
-        highlights:
-          - Database management (MySQL, MongoDB) and backend integration with Java.
+      - company: RISC-V International
+        position: Individual Member
+        location: Remote
+        start_date: 2024-08
+        end_date: present
+        summary: Participating in RISC-V community initiatives and following working groups.
 
     Education:
       - institution: Polytechnic University of Tirana
@@ -96,13 +78,6 @@ cv:
         end_date: 2025-07
 
     Publications:
-      - title: Implementing Encryption as an Architectural Approach to Securing Memory Systems
-        authors:
-          - Ina Papadhopulli
-          - Amina Sokoli
-        publisher: Oct. 2025
-        releaseDate: 2025-10-01
-
       - title: Understanding Performance Bottlenecks of Large-Scale Agent-Based Simulations
         authors:
           - Amina Sokoli
@@ -117,6 +92,13 @@ cv:
           - Amina Sokoli
         publisher: ICITEE25, Tirana, Albania
         releaseDate: 2025-12-12
+      
+      - title: Implementing Encryption as an Architectural Approach to Securing Memory Systems
+        authors:
+          - Ina Papadhopulli
+          - Amina Sokoli
+        publisher: Oct. 2025
+        releaseDate: 2025-10-01
 
     Skills:
       - name: Programming
